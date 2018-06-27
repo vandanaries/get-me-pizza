@@ -1,2 +1,2 @@
 # get-me-pizza
-Online pizza ordering app
+This is a web app for ordering pizza.
